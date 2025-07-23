@@ -1,2 +1,2 @@
 # django-news-blog
-A modrn django news blog
+A modern django news blog
